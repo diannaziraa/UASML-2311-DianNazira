@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+tensorflow-cpu
+Pillow
+google-genai
+google-api-core
+python-dotenv

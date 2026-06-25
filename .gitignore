@@ -1,0 +1,54 @@
+# =========================
+# Python
+# =========================
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.pytest_cache/
+.mypy_cache/
+
+.ipynb_checkpoints/
+
+# =========================
+# Dataset
+# =========================
+dataset/
+data/
+
+# =========================
+# Node / Next.js
+# =========================
+node_modules/
+.next/
+out/
+build/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.local
+.env.*
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Optional (kalau model terlalu besar)
+# =========================
+# *.h5
+# *.keras
