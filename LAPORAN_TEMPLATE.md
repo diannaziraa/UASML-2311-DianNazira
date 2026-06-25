@@ -1,8 +1,7 @@
 # 🐞 Smart Insect Identifier - Laporan Final Project
 
-**Nama Mahasiswa:** [Isi Nama Anda]  
-**NIM:** [Isi NIM Anda]  
-**Tanggal:** [Tanggal Pengumpulan]  
+**Nama Mahasiswa:** Dian Nazira
+**NIM:** 2308107010011
 **Mata Kuliah:** Pembelajaran Mesin (Machine Learning) - Final Project  
 
 ---
